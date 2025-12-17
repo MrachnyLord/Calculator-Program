@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="app.py" />
+    <File Path="index.html" />
+    <File Path="script.js" />
+    <File Path="style.css" />
+  </Folder>
   <Project Path="Calculator Program.csproj" />
 </Solution>
